@@ -1,0 +1,7 @@
+                                                                                       STUDENT RESUME
+                      
+                                  PERSONAL DETAILS:
+                                  name : balaji
+                                  DOB : 18-10-2005
+                                  email id : balajisingh353@gmail.com
+                                  gender : male
